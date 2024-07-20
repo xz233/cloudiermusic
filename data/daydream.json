@@ -1,0 +1,47 @@
+{
+    "lyrics":[
+	        {"line":"I'm just a mess on the inside","time":23000},
+	        {"line":"What do I do, you're always on my mind","time":27000},
+	        {"line":"Will you look my way one day, one day","time":33000},
+
+	        {"line":"I want to write a song","time":39000},
+	        {"line":"And sing with you all day long","time":43000},
+	        {"line":"I can't wait to see your face today!","time":48000},
+
+	        {"line":"Silent daydreams","time":55000},
+	        {"line":"Let it numb me","time":59000},
+	        {"line":"Save me from this morbid reality","time":63000},
+
+	        {"line":"Hands now ice cold","time":71000},
+	        {"line":"Reason unknown","time":75000},
+	        {"line":"I don't know why I feel so alone","time":79000},
+
+	        {"line":"Clothed in pale blue","time":87000},
+	        {"line":"Thinking of you","time":91000},
+	        {"line":"Please don't take my life away so soon","time":95000},
+
+	        {"line":"Hey are you in the mood for tea?","time":121000},
+	        {"line":"So won't you come along with me?","time":125000},
+	        {"line":"The truth is I've got something to say","time":130000},
+
+	        {"line":"I've got a feeling in my chest","time":137000},
+	        {"line":"I can't explain- I'm trying my best!","time":141000},
+	        {"line":"Well, you see, I've liked you since that day","time":146000},
+
+	        {"line":"Broken feeling","time":152000},
+	        {"line":"Blind but seeing","time":156000},
+	        {"line":"I'm still breathing but so hollow within","time":160000},
+
+	        {"line":"Where would I be","time":168000},
+	        {"line":"If I broke free?","time":172000},
+	        {"line":"Is this all my life had for me?","time":176000},
+
+	        {"line":"Let me break free","time":184000},
+	        {"line":"To reality","time":188000},
+	        {"line":"Stop this delusion that's in control of me","time":191000},
+
+	        {"line":"Let me break free","time":200000},
+	        {"line":"To reality","time":204000},
+	        {"line":"I don't want to live this life if it's a dream","time":209000}
+		]
+}

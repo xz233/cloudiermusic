@@ -1,0 +1,102 @@
+{
+    "songs":[
+	      {
+        "albumart":"https://x2org-data.x2cn.net/images/cloudiermusic/Artificial.jpg",
+        "song":"Artificial",
+        "author":"Cloud_",
+        "json":"https://www.x2cn.org/cloudiermusic/data/Artificial.json",
+        "audio":"https://xz233.blob.core.windows.net/music/Artificial.mp3"
+      },
+      {
+        "albumart":"https://x2org-data.x2cn.net/images/cloudiermusic/awaken.jpg",
+        "song":"Awaken",
+        "author":"Cloud_",
+        "json":"https://www.x2cn.org/cloudiermusic/data/awaken.json",
+        "audio":"https://xz233.blob.core.windows.net/music/Awaken.mp3"
+      },
+	  {
+        "albumart":"https://x2org-data.x2cn.net/images/cloudiermusic/Uncertainty.jpg",
+        "song":"Uncertainty",
+        "author":"Cloud_",
+        "json":"https://www.x2cn.org/cloudiermusic/data/Uncertainty.json",
+        "audio":"https://xz233.blob.core.windows.net/music/Uncertainty.mp3"
+      },
+	  {
+        "albumart":"https://x2org-data.x2cn.net/images/cloudiermusic/BloomingDay.jpg",
+        "song":"Blooming Day",
+        "author":"Cloudier",
+        "json":"https://www.x2cn.org/cloudiermusic/data/BloomingDay.json",
+        "audio":"https://xz233.blob.core.windows.net/music/Blooming Day.mp3"
+	  },
+	  {
+        "albumart":"https://x2org-data.x2cn.net/images/cloudiermusic/Lapse.jpg",
+        "song":"Lapse",
+        "author":"Cloudier",
+        "json":"https://www.x2cn.org/cloudiermusic/data/Lapse.json",
+        "audio":"https://xz233.blob.core.windows.net/music/Lapse.mp3"
+	  },
+	  {
+        "albumart":"https://x2org-data.x2cn.net/images/cloudiermusic/ACentimetreApart.jpg",
+        "song":"A Centimetre Apart",
+        "author":"Cloudier",
+        "json":"https://www.x2cn.org/cloudiermusic/data/ACentimetreApart.json",
+        "audio":"https://xz233.blob.core.windows.net/music/A Centimetre Apart.mp3"
+	  },
+	  {
+        "albumart":"https://x2org-data.x2cn.net/images/10.png",
+        "song":"A Centimetre Apart (Remix)",
+        "author":"Cloudier/Systile",
+        "json":"https://www.x2cn.org/cloudiermusic/data/ACentimetreAparts.json",
+        "audio":"https://xz233.blob.core.windows.net/music/Cloudier - A Centimetre Apart (Systile Remix).mp3"
+	  },
+	  {
+        "albumart":"https://x2org-data.x2cn.net/images/cloudiermusic/FEARlife.jpg",
+        "song":"FEAR;life",
+        "author":"Cloudier",
+        "json":"https://www.x2cn.org/cloudiermusic/data/FEARlife.json",
+        "audio":"https://xz233.blob.core.windows.net/music/FEAR;life.mp3"
+	  },
+	  {
+        "albumart":"https://x2org-data.x2cn.net/images/cloudiermusic/fantasy.jpg",
+        "song":"Fantasy",
+        "author":"Cloudier",
+        "json":"https://www.x2cn.org/cloudiermusic/data/fantasy.json",
+        "audio":"https://xz233.blob.core.windows.net/music/Fantasy.mp3"
+	  },
+	  {
+        "albumart":"https://x2org-data.x2cn.net/images/cloudiermusic/Heartbeat.jpg",
+        "song":"Heartbeat",
+        "author":"Cloudier",
+        "json":"https://www.x2cn.org/cloudiermusic/data/Heartbeat.json",
+        "audio":"https://xz233.blob.core.windows.net/music/Heartbeat.mp3"
+	  },
+	  {
+        "albumart":"https://x2org-data.x2cn.net/images/cloudiermusic/SetFree.jpg",
+        "song":"Set Free",
+        "author":"Cloudier",
+        "json":"https://www.x2cn.org/cloudiermusic/data/SetFree.json",
+        "audio":"https://xz233.blob.core.windows.net/music/Set Free.mp3"
+	  },
+	  {
+        "albumart":"https://x2org-data.x2cn.net/images/cloudiermusic/OurStory.jpg",
+        "song":"Our Story",
+        "author":"Cloudier",
+        "json":"https://www.x2cn.org/cloudiermusic/data/OurStory.json",
+        "audio":"https://xz233.blob.core.windows.net/music/Our Story.mp3"
+	  },
+	  {
+        "albumart":"https://x2org-data.x2cn.net/images/cloudiermusic/Daydream.jpg",
+        "song":"Daydream",
+        "author":"Cloudier",
+        "json":"https://www.x2cn.org/cloudiermusic/data/Daydream.json",
+        "audio":"https://xz233.blob.core.windows.net/music/Daydream.mp3"
+	  },
+	  {
+        "albumart":"https://x2org-data.x2cn.net/images/cloudiermusic/Warm.jpg",
+        "song":"Warm",
+        "author":"Cloudier",
+        "json":"https://www.x2cn.org/cloudiermusic/data/Warm.json",
+        "audio":"https://xz233.blob.core.windows.net/music/Warm.mp3"
+	  }
+    ]
+  }

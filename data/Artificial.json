@@ -1,0 +1,34 @@
+{
+    "lyrics":[
+		{"line":"I’m holding on to this world","time":56000},
+		{"line":"But somehow everything feels so surreal","time":61000},
+
+		{"line":"I’m holding on to thin air","time":67000},
+		{"line":"Until now I can’t tell if you’re there","time":72000},
+		{"line":"My trembling arms and trembling frame","time":78000},
+		{"line":"Can’t shake my aim can’t shake my game","time":83000},
+
+		{"line":"Just let me go","time":92000},
+		{"line":"I’m losing control","time":102000},
+
+        {"line":"Open up your eyes and see","time":154000},
+        {"line":"This whole new reality","time":159000},
+
+        {"line":"My hold on to this dream","time":166000},
+        {"line":"Is slipping, I’m bursting at the seams","time":170000},
+        {"line":"I just want to be free","time":177000},
+        {"line":"From this artificial world I’m in","time":181000},
+
+        {"line":"I just want to be free","time":190000},
+        {"line":"I just want to be free","time":199000},
+        {"line":"From this artificial world I’m in","time":203000},
+
+        {"line":"I’m losing control","time":232000},
+        {"line":"I just want to be free","time":234000},
+        {"line":"I’m losing control","time":237000},
+        {"line":"I just want to be free","time":240000},
+        {"line":"I’m losing control","time":243000},
+        {"line":"I just want to be free","time":246000},
+        {"line":"I’m losing control","time":249000}
+	]
+}
